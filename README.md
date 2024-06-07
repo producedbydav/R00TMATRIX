@@ -10,3 +10,5 @@ But building onchain unlocks new mediums and new methods of collaboration. R00TM
 Dynamic returns a version that's controlled by me at random or on a whim and can become an extensible contract.
 
 Creative versions are contracts available to be made by anyone that programaticly select versions for each SEED number.
+
+Code live here: https://basescan.org/address/0x12f7a9533f78d6a9851f0601d1b9fd75cb987efc#code
